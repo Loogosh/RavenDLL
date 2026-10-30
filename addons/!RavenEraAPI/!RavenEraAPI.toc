@@ -1,0 +1,9 @@
+## Interface: 11402
+## Title: RavenEra API
+## Notes: SuperWoW / UnitXP / HearthDB compatibility layer (RavenEra, taint-safe)
+## Author: RavenEra
+## Version: 0.8.0
+
+core.lua
+SuperWoW.lua
+UnitXP.lua

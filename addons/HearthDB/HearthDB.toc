@@ -1,0 +1,7 @@
+## Interface: 11402
+## Title: HearthDB
+## Notes: SQLite API (Raven Era — 1-slot gate via RavenEra_S0)
+## Author: RavenEra
+## Version: 0.4.1
+
+HearthDB.lua

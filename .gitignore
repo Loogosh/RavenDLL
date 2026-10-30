@@ -1,0 +1,23 @@
+# build output
+/build/
+/out/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.map
+
+# logs and local data
+/Logs/
+*.log
+pass.txt
+*.wtf
+
+# IDE
+.vs/
+CMakeSettings.json
+
+# python
+__pycache__/
+*.pyc
