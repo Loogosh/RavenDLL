@@ -21,3 +21,7 @@ CMakeSettings.json
 # python
 __pycache__/
 *.pyc
+
+# release bundles (attached to GitHub Releases)
+/release/
+
